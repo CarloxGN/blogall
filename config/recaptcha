@@ -1,0 +1,4 @@
+URL: https://www.google.com/recaptcha/api/siteverify
+secret (required)	6LfHBikUAAAAAJfewFTk_Qaf-Y_UXN2i3s0UKs4A
+response (required)	The value of 'g-recaptcha-response'.
+remoteip	The end user's ip address.
